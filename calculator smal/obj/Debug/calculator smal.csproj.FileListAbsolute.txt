@@ -1,0 +1,18 @@
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\bin\Debug\calculator smal.exe.config
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\bin\Debug\calculator smal.exe
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\bin\Debug\calculator smal.pdb
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\obj\Debug\calculator smal.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\obj\Debug\calculator_smal.Form1.resources
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\obj\Debug\calculator_smal.Properties.Resources.resources
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\obj\Debug\calculator smal.csproj.GenerateResource.Cache
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\obj\Debug\calculator smal.exe
+C:\Users\DELL\Desktop\project\calculator smal\calculator smal\obj\Debug\calculator smal.pdb
+D:\projects\project\calculator smal\calculator smal\bin\Debug\calculator smal.exe.config
+D:\projects\project\calculator smal\calculator smal\obj\Debug\calculator smal.exe
+D:\projects\project\calculator smal\calculator smal\obj\Debug\calculator smal.pdb
+D:\projects\project\calculator smal\calculator smal\bin\Debug\calculator smal.exe
+D:\projects\project\calculator smal\calculator smal\bin\Debug\calculator smal.pdb
+D:\projects\project\calculator smal\calculator smal\obj\Debug\calculator smal.csprojResolveAssemblyReference.cache
+D:\projects\project\calculator smal\calculator smal\obj\Debug\calculator_smal.calculator.resources
+D:\projects\project\calculator smal\calculator smal\obj\Debug\calculator_smal.Properties.Resources.resources
+D:\projects\project\calculator smal\calculator smal\obj\Debug\calculator smal.csproj.GenerateResource.Cache
